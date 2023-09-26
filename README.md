@@ -4,6 +4,9 @@ Jeffrey Nishida Fan Page
   <h1>
     Introduction : Meet Jeffrey Nishida
   </h1>
+  <h2>
+    Some Facts About Jeffrey!
+  </h2>
   <p>
     Jeffrey Nishida is a human being
     <ul>
