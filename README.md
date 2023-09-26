@@ -27,5 +27,5 @@ Jeffrey Nishida Fan Page
       </li>
     </ul>
   </p>
-       <a href="https://en.wikipedia.org/wiki/List_of_ice_cream_flavors" alt="Ice Cream"/>
+       <a href="https://en.wikipedia.org/wiki/List_of_ice_cream_flavors"/>
 </html>
