@@ -4,9 +4,6 @@ Jeffrey Nishida Fan Page
   <h1>
     Introduction : Meet Jeffrey Nishida
   </h1>
-  <h2>
-    Some Facts About Jeffrey!
-  </h2>
   <p>
     Jeffrey Nishida is a human being
     <ul>
@@ -25,5 +22,11 @@ Jeffrey Nishida Fan Page
       <li>
         <b>Favorite Basketball Player</b> : Kevin Durant
       </li>
+      <li>
+        <b>Favorite Food</b> : Ice Cream
+      </li>
+    </ul>
+  <a href="https://en.wikipedia.org/wiki/List_of_ice_cream_flavors" alt="Ice Cream" border="0"></a>a>
   </p>
+      
 </html>
