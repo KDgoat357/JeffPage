@@ -1,9 +1,7 @@
 # JeffPage
 Jeffrey Nishida Fan Page
 <html>
-  <h1>
-    Introduction : Meet Jeffrey Nishida!
-  </h1>
+  ##Introduction : Meet Jeffrey Nishida!
   <p>
     Jeffrey Nishida is a human being
     <ul>
@@ -30,4 +28,7 @@ Jeffrey Nishida Fan Page
   <h1>
     Fun Things in Jeffrey's Life!
   </h1>
+  <p>
+    
+  </p>
 </html>
