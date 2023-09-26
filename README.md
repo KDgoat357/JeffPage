@@ -23,9 +23,8 @@ Jeffrey Nishida Fan Page
         <b>Favorite Basketball Player</b> : Kevin Durant
       </li>
       <li>
-        <b>Favorite Food</b> : Ice Cream
+        <b>Favorite Food</b> : <a href=https' <a href="https://en.wikipedia.org/wiki/List_of_ice_cream_flavors">Ice Cream</a>
       </li>
     </ul>
   </p>
-       <a href="https://en.wikipedia.org/wiki/List_of_ice_cream_flavors"/>
 </html>
