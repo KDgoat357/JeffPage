@@ -36,6 +36,6 @@ Jeffrey Nishida Fan Page
   <p>
    <b>Basketball</b> - Jeffrey loves to play basketball. He has played for the majority of his life. Growing up, he played on a few recreational teams. In 6th grade, he tried out ofr his first club basketball team, Ironemen. He made the team and played with them for 3 years. He also played on his elementary school's basketball team in 5th and 6th grade. In middle school he played for his school's team for one year. He was unable to play for the second year due to the global pandemic COVID. When he started high school he tried out for the team and played on the Frosh/Soph team. They did well and only lost one game in their league. The next year he was moved up to varsity, and his team was able to make it to the CIF semi-finals. They also made the 2nd round of the state playoffs. He is currently getting ready for his second year on varsity. 
   </p>
-  <img src="https://drive.google.com/file/d/1NZZgaWnPhk109X2dL5qqjj3OoOzEAgY3/view" alt="Jeffrey on High School Basketball Team" width="500" height="600">
+  <img src="https://drive.google.com/file/d/1xzEc8_sK0n_3K8OzHqd_MXs7AvG3tnnV/view?usp=drive_link" alt="Jeffrey on High School Basketball Team" width="500" height="600">
     </body>
 </html>
