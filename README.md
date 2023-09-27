@@ -21,7 +21,7 @@ Jeffrey Nishida Fan Page
         <b>Favorite Color</b> : Black 
       </li>
       <li>
-        <b>Favorite Basketball Player</b> : Kevin Durant
+        <b>Favorite Basketball Player</b> : <a href="https://www.basketball-reference.com/players/d/duranke01.html">Kevin Durant</a>a>
       </li>
       <li>
         <b>Favorite Food</b> : <a href="https://en.wikipedia.org/wiki/List_of_ice_cream_flavors">Ice Cream</a>
