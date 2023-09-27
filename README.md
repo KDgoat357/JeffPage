@@ -27,6 +27,7 @@ Jeffrey Nishida Fan Page
         <b>Favorite Food</b> : <a href="https://en.wikipedia.org/wiki/List_of_ice_cream_flavors">Ice Cream</a>
       </li>
     </ul>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/N1HLmgd/IMG-5534.jpg" alt="IMG_5534" border="0"></a>
   </p>
     </body>
   <h1>
