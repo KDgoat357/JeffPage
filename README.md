@@ -1,6 +1,6 @@
 # JeffPage
 Jeffrey Nishida Fan Page
-<a href="https://ibb.co/Y8q2pnq"><img src="[https://drive.google.com/file/d/1CqhyKzU6Y6zG7qfHAeiuZF8VZAXXs_C6/view?usp=drive_link](https://ibb.co/Y8q2pnq)">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/4M5WPv5/3-BA5-C9-C8-3-B4-B-41-D2-83-DF-25-B4-E24-EDB93.jpg" alt="3-BA5-C9-C8-3-B4-B-41-D2-83-DF-25-B4-E24-EDB93" border="0"></a>
 
 <html>
   <h1>
